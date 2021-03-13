@@ -2,7 +2,7 @@ hugepage
 ===================
 
 
-.. content::
+.. contents::
 
 
 关闭透明巨页
