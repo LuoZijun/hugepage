@@ -51,7 +51,7 @@ hugepage
     }
 
 
-相关的`内核启动参数 <https://www.kernel.org/doc/Documentation/admin-guide/kernel-parameters.txt>`_:
+相关的 `内核启动参数 <https://www.kernel.org/doc/Documentation/admin-guide/kernel-parameters.txt>`_ :
 
 .. code:: text
 
